@@ -18,7 +18,7 @@
 
 pragma solidity ^0.8.0;
 
-contract SellsContract{
+contract SampleContract{
     // Task 1 State Variables
     address payable public merchant;
     address payable public Buyer;
