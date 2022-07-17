@@ -1,5 +1,6 @@
 # OneOBit_Assignment
 sample contract with the following specs:
+
     1. State variables:
         1. Merchant
         2. Buyer
@@ -12,5 +13,5 @@ sample contract with the following specs:
         1. Calculate current gas fees on blockchain.
         2. Add current gas to price of product.
         3. Take payment from msg.
-   5. Withdraw:
+    5. Withdraw:
         1. Let ONLY merchant withdraw the proceeds of sales from the contract to his wallet.
