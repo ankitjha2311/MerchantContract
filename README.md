@@ -1,5 +1,4 @@
-# OneOBit_Assignment
-sample contract with the following specs:
+# Merchat contract with the following specs:
 
     1. State variables:
         1. Merchant
@@ -14,4 +13,4 @@ sample contract with the following specs:
         2. Add current gas to price of product.
         3. Take payment from msg.
     5. Withdraw:
-        1. Let ONLY merchant withdraw the proceeds of sales from the contract to his wallet.
+        1. Only merchant can withdraw the proceeds of sales from the contract to his wallet.
